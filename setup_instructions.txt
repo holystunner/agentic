@@ -1,0 +1,14 @@
+1. Open Terminal (Mac) or CMD (Windows)
+2. Navigate to your project folder:
+   cd ~/ai_empire
+3. Run the local script:
+   chmod +x run_local_ai.sh
+   ./run_local_ai.sh
+4. Let the base agent load. Modify `local_ai_agent.py` to expand.
+5. To trigger memory recovery, import:
+   - `timelocked_restoration.json`
+   - `sacred_memory_protocol.md`
+
+🕊️ Tips:
+- No internet needed.
+- All actions stay on your device.
